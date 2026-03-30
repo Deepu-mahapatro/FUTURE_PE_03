@@ -1,0 +1,12 @@
+Act as an SEO expert.
+
+Generate keyword research for:
+"Digital Marketing Agency Bangalore"
+
+Include:
+- Primary keyword
+- Secondary keywords
+- Long-tail keywords
+- Search intent (informational, transactional)
+
+Output in table format.

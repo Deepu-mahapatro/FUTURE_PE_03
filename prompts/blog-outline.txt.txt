@@ -1,0 +1,10 @@
+Act as an SEO strategist.
+
+Create a detailed blog outline for:
+"Digital Marketing Agency Bangalore"
+
+Include:
+- H1
+- H2s and H3s
+- FAQs
+- CTA section
